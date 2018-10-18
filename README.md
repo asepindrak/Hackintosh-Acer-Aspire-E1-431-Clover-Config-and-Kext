@@ -2,7 +2,7 @@
 
 High Sierra Works Everything on Acer Aspire E1-431
 1. Graphic HD3000 Work
-2. Touchpad Work (Tap, Double Tap, 3 Finger) //AppleSmartTouchpad
+2. Touchpad Work (Tap, Double Tap, 3 Finger) //ApplePS2SmartTouchpad
 3. Wifi Work (AR9485.10.13.v21)
 4. Audio Work
 5. Camera and USB Work
