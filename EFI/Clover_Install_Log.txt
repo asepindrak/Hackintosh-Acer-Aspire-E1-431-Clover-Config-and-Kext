@@ -1,0 +1,33 @@
+
+Clover EFI installer log - Sun Oct 14 13:22:25 WIB 2018
+Installer version: v2.4k r4658 EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS Macintosh HD            249.9 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+   4:                  Apple_HFS Master                  124.6 GB   disk0s4
+   5:       Microsoft Basic Data WINDOWS                 83.9 GB    disk0s5
+
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/Macintosh HD/EFIROOTDIR/EFI folder to /Volumes/Macintosh HD/EFI-Backups/r4658/2018-10-14-13h22/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+
+Removing drivers64UEFI/VBoxHfs-64.efi driver because HFSPlus driver present
+======================================================
+Installing RC Scripts
+
+Installing RC scripts on target volume '/'
+
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
