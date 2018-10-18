@@ -3,7 +3,7 @@
 High Sierra Works Everything on Acer Aspire E1-431
 1. Graphic HD3000 Work
 2. Touchpad Work (Tap, Double Tap, 3 Finger) //ApplePS2SmartTouchpad
-3. Wifi Work (AR9485.10.13.v21)
+3. Wifi Work (AR9485.10.13.v21) install IO80211Family.kext
 4. Audio Work
 5. Camera and USB Work
 6. Keyboard Work
@@ -18,5 +18,5 @@ Step to build Hackintosh:
 5. Boot & Install Hackintosh
 6. Install Clover to HDD for boot without USB Drive
 7. Copy-paste EFI from USB Drive to EFI HDD (Replace) (Mount EFI via EFI Mounter or Clover Configuration)
-8. Install Kext Touchpad and Wifi
+8. Install Kext Touchpad and Wifi with Kext Utility
 9. Done
