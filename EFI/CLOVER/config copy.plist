@@ -110,6 +110,15 @@
 				<string>onboard-1</string>
 			</dict>
 		</array>
+		<key>Audio</key>
+		<dict>
+			<key>AFGLowPowerState</key>
+			<true/>
+			<key>Inject</key>
+			<integer>3</integer>
+			<key>ResetHDA</key>
+			<true/>
+		</dict>
 		<key>FakeID</key>
 		<dict>
 			<key>IMEI</key>
@@ -328,8 +337,8 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
-		<key>MLB</key>
-		<string>C02242310J9DY3VUE</string>
+		<key>ROM</key>
+		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -344,7 +353,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02242310J9DY3VUE</string>
+		<string>C02343701GUDY3VAD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -372,9 +381,11 @@
 		<key>ProductName</key>
 		<string>MacBookPro10,1</string>
 		<key>SerialNumber</key>
-		<string>C02JK0JCDKQ1</string>
+		<string>C02LLBZ7DKQ1</string>
 		<key>SmUUID</key>
-		<string>9A188134-3229-4420-BCE7-02A6F8B4A810</string>
+		<string>7CD9726F-13E9-482D-B538-EE561624711E</string>
+		<key>Trust</key>
+		<true/>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
